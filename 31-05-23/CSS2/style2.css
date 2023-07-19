@@ -1,0 +1,17 @@
+h4{background-color: rgb(30, 52, 18); font-family: 'Times New Roman', Times, serif;}
+
+a:link{
+    color: rgb(154, 38, 148);
+}
+
+a:visited{
+    color: rgb(144, 153, 72);
+}
+
+a:hover{
+    color: black;
+}
+
+body{
+    background-image: url('/31-05-23/images/rose\ bud\ cherry.jpeg');
+}

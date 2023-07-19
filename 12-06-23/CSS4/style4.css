@@ -1,0 +1,27 @@
+.learn{
+    border: 5px solid black;
+    color: aquamarine;
+    background-color: crimson;
+    padding: 2px;
+}
+
+#hie{
+    border: 5px solid black;
+    color: aquamarine;
+    background-color: crimson;
+    padding: 2px;
+}
+
+h2{background-color: rgb(139, 205, 104); font-family: 'Times New Roman', Times, serif;
+   
+}
+
+li{
+    display: inline;
+    color: chocolate;
+}
+
+nav{
+    text-align-last: right;
+    /* font-size: 50%; */
+}

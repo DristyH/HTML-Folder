@@ -1,0 +1,19 @@
+.para{
+    background-color:rgba(0,128,0,0.3);
+    color: bisque;
+    
+
+}
+
+#mydiv{
+    background-color: bisque;
+    color: black;
+    opacity: 0.5;
+}
+
+body{
+    background-image: url(/14-06-23/images/2.jpg);
+    background-repeat: no-repeat;
+     background-position: right top; 
+     background-attachment: fixed;
+}
